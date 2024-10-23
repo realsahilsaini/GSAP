@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gilroy', sans-serif;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+
+#box1{
+  height: 300px;
+  width: 300px;
+  background-color: red;
+  border-radius: 50px;
+}
+
+#box2{
+  height: 300px;
+  width: 300px;
+  background-color: blue;
+  border-radius: 50px;
+}
+
+#box3{
+  height: 300px;
+  width: 300px;
+  background-color: green;
+  border-radius: 50px;
+}
