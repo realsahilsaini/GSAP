@@ -31,6 +31,11 @@ body{
   width: 100%;
   background-color: rgb(151, 22, 22);
 }
+#page4{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
 
 #page2 h1{
   font-size: 42vw;
